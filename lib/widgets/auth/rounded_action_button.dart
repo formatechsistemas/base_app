@@ -1,5 +1,5 @@
-import 'package:coleta_solo/theme/app_theme.dart';
-import 'package:coleta_solo/widgets/shared/loading_indicator.dart';
+import 'package:base_app/theme/app_theme.dart';
+import 'package:base_app/widgets/shared/loading_indicator.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

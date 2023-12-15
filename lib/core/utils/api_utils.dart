@@ -1,11 +1,11 @@
 import 'dart:io';
 
-import 'package:coleta_solo/core/flavors.dart';
-import 'package:coleta_solo/core/models/shared/errors/cache_error.dart';
-import 'package:coleta_solo/core/models/shared/errors/not_supported_on_offline_error.dart';
-import 'package:coleta_solo/core/network/formatech_dio.dart';
-import 'package:coleta_solo/core/services/connectivity_service.dart';
-import 'package:coleta_solo/widgets/shared/error_indicator.dart';
+import 'package:base_app/core/flavors.dart';
+import 'package:base_app/core/models/shared/errors/cache_error.dart';
+import 'package:base_app/core/models/shared/errors/not_supported_on_offline_error.dart';
+import 'package:base_app/core/network/formatech_dio.dart';
+import 'package:base_app/core/services/connectivity_service.dart';
+import 'package:base_app/widgets/shared/error_indicator.dart';
 import 'package:dio/dio.dart';
 import 'package:get/get.dart' as getx;
 

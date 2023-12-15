@@ -1,6 +1,6 @@
-import 'package:coleta_solo/core/models/user/user_model.dart';
-import 'package:coleta_solo/core/repositories/user/user_repository.dart';
-import 'package:coleta_solo/core/services/controlled_service.dart';
+import 'package:base_app/core/models/user/user_model.dart';
+import 'package:base_app/core/repositories/user/user_repository.dart';
+import 'package:base_app/core/services/controlled_service.dart';
 import 'package:get/get.dart';
 
 class AuthService extends ControlledService {

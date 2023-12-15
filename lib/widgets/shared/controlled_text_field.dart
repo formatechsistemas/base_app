@@ -1,4 +1,4 @@
-import 'package:coleta_solo/core/shared/text_field_controller.dart';
+import 'package:base_app/core/shared/text_field_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';

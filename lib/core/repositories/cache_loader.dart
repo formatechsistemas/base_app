@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:coleta_solo/core/utils/api_utils.dart';
-import 'package:coleta_solo/core/services/connectivity_service.dart';
+import 'package:base_app/core/utils/api_utils.dart';
+import 'package:base_app/core/services/connectivity_service.dart';
 import 'package:get/get.dart';
 
 mixin CacheLoader {

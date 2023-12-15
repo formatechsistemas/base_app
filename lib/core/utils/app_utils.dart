@@ -4,7 +4,7 @@ import 'package:open_store/open_store.dart';
 class AppUtils {
   static Future<void> openStore() => OpenStore.instance.open(
         appStoreId: '1590498655',
-        androidAppBundleId: 'com.coleta_solo',
+        androidAppBundleId: 'com.base_app',
       );
 
   /// Closes the app

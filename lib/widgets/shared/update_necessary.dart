@@ -1,8 +1,8 @@
 import 'dart:io';
 
-import 'package:coleta_solo/core/utils/app_utils.dart';
-import 'package:coleta_solo/theme/app_theme.dart';
-import 'package:coleta_solo/widgets/shared/button.dart';
+import 'package:base_app/core/utils/app_utils.dart';
+import 'package:base_app/theme/app_theme.dart';
+import 'package:base_app/widgets/shared/button.dart';
 import 'package:flutter/material.dart';
 
 class UpdateNecessary extends StatelessWidget {

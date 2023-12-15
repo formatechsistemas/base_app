@@ -1,10 +1,10 @@
 import 'dart:async';
 
-import 'package:coleta_solo/core/repositories/cache_loader.dart';
-import 'package:coleta_solo/core/repositories/controlled_repository.dart';
-import 'package:coleta_solo/core/services/auth_service.dart';
-import 'package:coleta_solo/core/services/controlled_service.dart';
-import 'package:coleta_solo/core/services/feature_service.dart';
+import 'package:base_app/core/repositories/cache_loader.dart';
+import 'package:base_app/core/repositories/controlled_repository.dart';
+import 'package:base_app/core/services/auth_service.dart';
+import 'package:base_app/core/services/controlled_service.dart';
+import 'package:base_app/core/services/feature_service.dart';
 import 'package:collection/collection.dart';
 import 'package:dio/dio.dart';
 import 'package:get/get.dart';

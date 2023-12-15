@@ -1,4 +1,4 @@
-import 'package:coleta_solo/theme/app_theme.dart';
+import 'package:base_app/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 
 class LoadingIndicator extends StatefulWidget {

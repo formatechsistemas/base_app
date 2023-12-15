@@ -1,7 +1,7 @@
 // ignore_for_file: avoid_field_initializers_in_const_classes
 
-import 'package:coleta_solo/core/utils/color_utils.dart';
-import 'package:coleta_solo/theme/app_theme.dart';
+import 'package:base_app/core/utils/color_utils.dart';
+import 'package:base_app/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 

@@ -1,8 +1,8 @@
-import 'package:coleta_solo/core/services/analytics_service.dart';
-import 'package:coleta_solo/modules/home/home_controller.dart';
-import 'package:coleta_solo/widgets/shared/controlled_screen.dart';
-import 'package:coleta_solo/widgets/shared/formatech_app_bar.dart';
-import 'package:coleta_solo/widgets/shared/formatech_scaffold.dart';
+import 'package:base_app/core/services/analytics_service.dart';
+import 'package:base_app/modules/home/home_controller.dart';
+import 'package:base_app/widgets/shared/controlled_screen.dart';
+import 'package:base_app/widgets/shared/formatech_app_bar.dart';
+import 'package:base_app/widgets/shared/formatech_scaffold.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends ControlledScreen<HomeController> {

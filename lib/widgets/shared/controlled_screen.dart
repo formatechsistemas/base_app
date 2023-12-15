@@ -1,8 +1,8 @@
-import 'package:coleta_solo/core/flavors.dart';
-import 'package:coleta_solo/core/shared/screen_controller.dart';
-import 'package:coleta_solo/routes/app_navigator.dart';
-import 'package:coleta_solo/widgets/shared/formatech_scaffold.dart';
-import 'package:coleta_solo/widgets/shared/loading_indicator.dart';
+import 'package:base_app/core/flavors.dart';
+import 'package:base_app/core/shared/screen_controller.dart';
+import 'package:base_app/routes/app_navigator.dart';
+import 'package:base_app/widgets/shared/formatech_scaffold.dart';
+import 'package:base_app/widgets/shared/loading_indicator.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

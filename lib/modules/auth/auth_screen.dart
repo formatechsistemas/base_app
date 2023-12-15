@@ -1,8 +1,8 @@
-import 'package:coleta_solo/modules/auth/auth_controller.dart';
-import 'package:coleta_solo/theme/app_theme.dart';
-import 'package:coleta_solo/widgets/auth/auth_text_field.dart';
-import 'package:coleta_solo/widgets/auth/rounded_action_button.dart';
-import 'package:coleta_solo/widgets/shared/controlled_screen.dart';
+import 'package:base_app/modules/auth/auth_controller.dart';
+import 'package:base_app/theme/app_theme.dart';
+import 'package:base_app/widgets/auth/auth_text_field.dart';
+import 'package:base_app/widgets/auth/rounded_action_button.dart';
+import 'package:base_app/widgets/shared/controlled_screen.dart';
 import 'package:flutter/material.dart';
 
 class AuthScreen extends ControlledScreen<AuthController> {

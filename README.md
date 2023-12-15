@@ -1,3 +1,3 @@
-# coleta_solo
+# base_app
 
 A new Flutter project.

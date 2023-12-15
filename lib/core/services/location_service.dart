@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:coleta_solo/core/services/controlled_service.dart';
+import 'package:base_app/core/services/controlled_service.dart';
 import 'package:get/get.dart';
 import 'package:latlng/latlng.dart';
 

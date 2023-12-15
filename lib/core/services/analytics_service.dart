@@ -1,12 +1,12 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:coleta_solo/core/extensions/date_time_extensions.dart';
-import 'package:coleta_solo/core/extensions/int_extensions.dart';
-import 'package:coleta_solo/core/flavors.dart';
-import 'package:coleta_solo/core/services/auth_service.dart';
-import 'package:coleta_solo/core/utils/string_utils.dart';
-import 'package:coleta_solo/routes/app_navigator.dart';
+import 'package:base_app/core/extensions/date_time_extensions.dart';
+import 'package:base_app/core/extensions/int_extensions.dart';
+import 'package:base_app/core/flavors.dart';
+import 'package:base_app/core/services/auth_service.dart';
+import 'package:base_app/core/utils/string_utils.dart';
+import 'package:base_app/routes/app_navigator.dart';
 import 'package:flutter_udid/flutter_udid.dart';
 import 'package:posthog_flutter/posthog_flutter.dart';
 

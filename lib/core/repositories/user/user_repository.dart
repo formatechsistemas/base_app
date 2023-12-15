@@ -1,9 +1,9 @@
-import 'package:coleta_solo/core/isar/user/user_isar_model.dart';
-import 'package:coleta_solo/core/repositories/controlled_repository.dart';
-import 'package:coleta_solo/core/repositories/user/user_repository_local.dart';
-import 'package:coleta_solo/core/repositories/user/user_repository_remote.dart';
-import 'package:coleta_solo/core/repositories/user/user_repository_strategy.dart';
-import 'package:coleta_solo/core/services/connectivity_service.dart';
+import 'package:base_app/core/isar/user/user_isar_model.dart';
+import 'package:base_app/core/repositories/controlled_repository.dart';
+import 'package:base_app/core/repositories/user/user_repository_local.dart';
+import 'package:base_app/core/repositories/user/user_repository_remote.dart';
+import 'package:base_app/core/repositories/user/user_repository_strategy.dart';
+import 'package:base_app/core/services/connectivity_service.dart';
 import 'package:get/get.dart';
 import 'package:isar/isar.dart';
 

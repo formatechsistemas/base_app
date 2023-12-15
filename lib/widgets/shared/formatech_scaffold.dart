@@ -1,5 +1,5 @@
-import 'package:coleta_solo/core/services/feature_service.dart';
-import 'package:coleta_solo/widgets/shared/update_necessary.dart';
+import 'package:base_app/core/services/feature_service.dart';
+import 'package:base_app/widgets/shared/update_necessary.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

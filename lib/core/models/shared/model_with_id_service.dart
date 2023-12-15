@@ -1,4 +1,4 @@
-import 'package:coleta_solo/core/models/shared/identifiable.dart';
+import 'package:base_app/core/models/shared/identifiable.dart';
 
 abstract class ModelWithIdService<T extends Identifiable> {
   T? getById(String? id);

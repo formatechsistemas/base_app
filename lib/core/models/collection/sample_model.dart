@@ -1,4 +1,4 @@
-import 'package:coleta_solo/core/models/collection/polygon_model.dart';
+import 'package:base_app/core/models/collection/polygon_model.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'collection_barcode_model.dart';
 import 'subsample_model.dart';

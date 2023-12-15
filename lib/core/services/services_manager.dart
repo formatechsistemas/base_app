@@ -1,14 +1,14 @@
 import 'dart:async';
 
-import 'package:coleta_solo/core/repositories/controlled_repository.dart';
-import 'package:coleta_solo/core/repositories/user/user_repository.dart';
-import 'package:coleta_solo/core/services/auth_service.dart';
-import 'package:coleta_solo/core/services/connectivity_service.dart';
-import 'package:coleta_solo/core/services/controlled_service.dart';
-import 'package:coleta_solo/core/services/data_initializer_service.dart';
-import 'package:coleta_solo/core/services/feature_service.dart';
-import 'package:coleta_solo/core/services/location_service.dart';
-import 'package:coleta_solo/modules/splash/splash_controller.dart';
+import 'package:base_app/core/repositories/controlled_repository.dart';
+import 'package:base_app/core/repositories/user/user_repository.dart';
+import 'package:base_app/core/services/auth_service.dart';
+import 'package:base_app/core/services/connectivity_service.dart';
+import 'package:base_app/core/services/controlled_service.dart';
+import 'package:base_app/core/services/data_initializer_service.dart';
+import 'package:base_app/core/services/feature_service.dart';
+import 'package:base_app/core/services/location_service.dart';
+import 'package:base_app/modules/splash/splash_controller.dart';
 import 'package:get/get.dart';
 
 class ServicesManager {

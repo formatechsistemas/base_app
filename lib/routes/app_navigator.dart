@@ -1,6 +1,6 @@
-import 'package:coleta_solo/core/flavors.dart';
-import 'package:coleta_solo/routes/app_routes.dart';
-import 'package:coleta_solo/widgets/shared/controlled_screen.dart';
+import 'package:base_app/core/flavors.dart';
+import 'package:base_app/routes/app_routes.dart';
+import 'package:base_app/widgets/shared/controlled_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

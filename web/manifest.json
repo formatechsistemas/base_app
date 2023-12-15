@@ -1,6 +1,6 @@
 {
-    "name": "coleta_solo",
-    "short_name": "coleta_solo",
+    "name": "base_app",
+    "short_name": "base_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

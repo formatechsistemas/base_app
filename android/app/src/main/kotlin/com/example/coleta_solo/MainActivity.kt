@@ -1,4 +1,4 @@
-package com.coleta_solo
+package com.base_app
 
 import io.flutter.embedding.android.FlutterActivity
 

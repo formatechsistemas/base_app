@@ -1,5 +1,5 @@
-import 'package:coleta_solo/modules/home/home_screen.dart';
-import 'package:coleta_solo/modules/splash/splash_screen.dart';
+import 'package:base_app/modules/home/home_screen.dart';
+import 'package:base_app/modules/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

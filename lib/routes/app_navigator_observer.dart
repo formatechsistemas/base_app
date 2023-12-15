@@ -1,5 +1,5 @@
-import 'package:coleta_solo/core/services/feature_service.dart';
-import 'package:coleta_solo/routes/app_navigator.dart';
+import 'package:base_app/core/services/feature_service.dart';
+import 'package:base_app/routes/app_navigator.dart';
 import 'package:flutter/material.dart';
 
 class AppNavigatorObserver extends NavigatorObserver {

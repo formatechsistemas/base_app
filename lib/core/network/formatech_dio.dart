@@ -1,6 +1,6 @@
-import 'package:coleta_solo/core/flavors.dart';
-import 'package:coleta_solo/core/network/interceptors/dio_connectivity_request_retrier.dart';
-import 'package:coleta_solo/core/network/interceptors/retry_on_connection_change_interceptor.dart';
+import 'package:base_app/core/flavors.dart';
+import 'package:base_app/core/network/interceptors/dio_connectivity_request_retrier.dart';
+import 'package:base_app/core/network/interceptors/retry_on_connection_change_interceptor.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:dio/dio.dart';
 import 'package:get/get.dart';

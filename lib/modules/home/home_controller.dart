@@ -1,5 +1,5 @@
-import 'package:coleta_solo/core/services/connectivity_service.dart';
-import 'package:coleta_solo/core/shared/screen_controller.dart';
+import 'package:base_app/core/services/connectivity_service.dart';
+import 'package:base_app/core/shared/screen_controller.dart';
 import 'package:get/get.dart';
 
 class HomeController extends ScreenController {

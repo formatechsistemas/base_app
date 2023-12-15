@@ -1,4 +1,4 @@
-import 'package:coleta_solo/core/network/interceptors/dio_connectivity_request_retrier.dart';
+import 'package:base_app/core/network/interceptors/dio_connectivity_request_retrier.dart';
 import 'package:dio/dio.dart';
 
 class RetryOnConnectionChangeInterceptor extends Interceptor {

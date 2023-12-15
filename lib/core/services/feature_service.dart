@@ -1,7 +1,7 @@
 import 'dart:convert';
-import 'package:coleta_solo/core/flavors.dart';
-import 'package:coleta_solo/core/services/auth_service.dart';
-import 'package:coleta_solo/core/utils/feature_util.dart';
+import 'package:base_app/core/flavors.dart';
+import 'package:base_app/core/services/auth_service.dart';
+import 'package:base_app/core/utils/feature_util.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:dio/dio.dart';
 import 'package:get/get.dart';

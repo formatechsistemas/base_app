@@ -1,4 +1,4 @@
-import 'package:coleta_solo/core/models/collection/depth_model.dart';
+import 'package:base_app/core/models/collection/depth_model.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'package:latlng/latlng.dart';
 import 'image_model.dart';

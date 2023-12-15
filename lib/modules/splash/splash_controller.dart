@@ -1,11 +1,11 @@
 import 'dart:async';
-import 'package:coleta_solo/core/services/auth_service.dart';
-import 'package:coleta_solo/core/services/connectivity_service.dart';
-import 'package:coleta_solo/core/services/services_manager.dart';
-import 'package:coleta_solo/core/shared/screen_controller.dart';
-import 'package:coleta_solo/formatech_run.dart';
-import 'package:coleta_solo/routes/app_navigator.dart';
-import 'package:coleta_solo/routes/app_routes.dart';
+import 'package:base_app/core/services/auth_service.dart';
+import 'package:base_app/core/services/connectivity_service.dart';
+import 'package:base_app/core/services/services_manager.dart';
+import 'package:base_app/core/shared/screen_controller.dart';
+import 'package:base_app/formatech_run.dart';
+import 'package:base_app/routes/app_navigator.dart';
+import 'package:base_app/routes/app_routes.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:get/get.dart';
 

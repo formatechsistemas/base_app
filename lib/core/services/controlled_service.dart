@@ -1,9 +1,9 @@
 import 'dart:async';
 
-import 'package:coleta_solo/core/models/shared/errors/cache_error.dart';
-import 'package:coleta_solo/core/models/shared/identifiable.dart';
-import 'package:coleta_solo/core/models/shared/model_with_id_service.dart';
-import 'package:coleta_solo/core/utils/api_utils.dart';
+import 'package:base_app/core/models/shared/errors/cache_error.dart';
+import 'package:base_app/core/models/shared/identifiable.dart';
+import 'package:base_app/core/models/shared/model_with_id_service.dart';
+import 'package:base_app/core/utils/api_utils.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
